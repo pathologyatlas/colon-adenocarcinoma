@@ -1,32 +1,8 @@
-# template
+# colon-adenocarcinoma
 
 
 
-**template for pathology atlas repositories**
-
-
-
-
-> see [make-html-WSI](https://github.com/pathologyatlas/make-html-WSI) for more information and [TODO](https://github.com/pathologyatlas/TODO) to add cases
-
-
-
-
-> do not forget to activate github pages for the new repository
-
-
-
-
-```zsh
-
-vips dzsave HE.svs HE
-
-```
-
-
-
-
-```{r language template, echo=FALSE, include=TRUE}
+```{r language colon-adenocarcinoma, echo=FALSE, include=TRUE}
 
 source("./R/language.R")
 
@@ -37,7 +13,7 @@ source("./R/language.R")
 
 ```{asis, echo = (language == "TR")}
 
-# TemplateTR
+# Kolon Adenokarsinomu
 
 ```
 
@@ -46,7 +22,7 @@ source("./R/language.R")
 
 ```{asis, echo = (language == "EN")}
 
-# TemplateEN
+# Colon Adenocarcinoma
 
 ```
 
@@ -55,14 +31,14 @@ source("./R/language.R")
 
 ```{asis, echo = (language == "TR")}
 
-**templateTR**
+**Kolon Adenokarsinomu**
 
 
-[https://pathologyatlas.github.io/template/HE.html](https://pathologyatlas.github.io/template/HE.html)
+[https://pathologyatlas.github.io/colon-adenocarcinoma/HE.html](https://pathologyatlas.github.io/colon-adenocarcinoma/HE.html)
 
 Mikroskopik görüntüleri inceleyin:
 
-<iframe src="https://pathologyatlas.github.io/template/HE.html" style="height:400px;width:100%;"></iframe>
+<iframe src="https://pathologyatlas.github.io/colon-adenocarcinoma/HE.html" style="height:400px;width:100%;"></iframe>
 
 ```
 
@@ -71,14 +47,14 @@ Mikroskopik görüntüleri inceleyin:
 
 ```{asis, echo = (language == "EN")}
 
-**templateEN**
+**Colon Adenocarcinoma**
 
 
-[https://pathologyatlas.github.io/template/HE.html](https://pathologyatlas.github.io/template/HE.html)
+[https://pathologyatlas.github.io/colon-adenocarcinoma/HE.html](https://pathologyatlas.github.io/colon-adenocarcinoma/HE.html)
 
 See Microscopy with viewer: 
 
-<iframe src="https://pathologyatlas.github.io/template/HE.html" style="height:400px;width:100%;"></iframe>
+<iframe src="https://pathologyatlas.github.io/colon-adenocarcinoma/HE.html" style="height:400px;width:100%;"></iframe>
 
 ```
 
