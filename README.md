@@ -59,3 +59,34 @@ See Microscopy with viewer:
 ```
 
 
+
+```{asis, echo = (language == "TR")}
+
+**Kolon Adenokarsinomu**
+
+
+[https://pathologyatlas.github.io/colon-adenocarcinoma/HE2.html](https://pathologyatlas.github.io/colon-adenocarcinoma/HE2.html)
+
+Mikroskopik görüntüleri inceleyin:
+
+<iframe src="https://pathologyatlas.github.io/colon-adenocarcinoma/HE2.html" style="height:400px;width:100%;"></iframe>
+
+```
+
+
+
+
+```{asis, echo = (language == "EN")}
+
+**Colon Adenocarcinoma**
+
+
+[https://pathologyatlas.github.io/colon-adenocarcinoma/HE2.html](https://pathologyatlas.github.io/colon-adenocarcinoma/HE2.html)
+
+See Microscopy with viewer: 
+
+<iframe src="https://pathologyatlas.github.io/colon-adenocarcinoma/HE2.html" style="height:400px;width:100%;"></iframe>
+
+```
+
+
