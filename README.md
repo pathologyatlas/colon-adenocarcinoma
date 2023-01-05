@@ -34,11 +34,11 @@ source("./R/language.R")
 **Kolon Adenokarsinomu**
 
 
-[https://pathologyatlas.github.io/colon-adenocarcinoma/HE.html](https://pathologyatlas.github.io/colon-adenocarcinoma/HE.html)
+[https://images.patolojiatlasi.com/colon-adenocarcinoma/HE.html](https://images.patolojiatlasi.com/colon-adenocarcinoma/HE.html)
 
 Mikroskopik görüntüleri inceleyin:
 
-<iframe src="https://pathologyatlas.github.io/colon-adenocarcinoma/HE.html" style="height:400px;width:100%;"></iframe>
+<iframe src="https://images.patolojiatlasi.com/colon-adenocarcinoma/HE.html" style="height:400px;width:100%;"></iframe>
 
 ```
 
@@ -50,11 +50,11 @@ Mikroskopik görüntüleri inceleyin:
 **Colon Adenocarcinoma**
 
 
-[https://pathologyatlas.github.io/colon-adenocarcinoma/HE.html](https://pathologyatlas.github.io/colon-adenocarcinoma/HE.html)
+[https://images.patolojiatlasi.com/colon-adenocarcinoma/HE.html](https://images.patolojiatlasi.com/colon-adenocarcinoma/HE.html)
 
 See Microscopy with viewer: 
 
-<iframe src="https://pathologyatlas.github.io/colon-adenocarcinoma/HE.html" style="height:400px;width:100%;"></iframe>
+<iframe src="https://images.patolojiatlasi.com/colon-adenocarcinoma/HE.html" style="height:400px;width:100%;"></iframe>
 
 ```
 
@@ -65,11 +65,11 @@ See Microscopy with viewer:
 **Kolon Adenokarsinomu**
 
 
-[https://pathologyatlas.github.io/colon-adenocarcinoma/HE2.html](https://pathologyatlas.github.io/colon-adenocarcinoma/HE2.html)
+[https://images.patolojiatlasi.com/colon-adenocarcinoma/HE2.html](https://images.patolojiatlasi.com/colon-adenocarcinoma/HE2.html)
 
 Mikroskopik görüntüleri inceleyin:
 
-<iframe src="https://pathologyatlas.github.io/colon-adenocarcinoma/HE2.html" style="height:400px;width:100%;"></iframe>
+<iframe src="https://images.patolojiatlasi.com/colon-adenocarcinoma/HE2.html" style="height:400px;width:100%;"></iframe>
 
 ```
 
@@ -81,11 +81,11 @@ Mikroskopik görüntüleri inceleyin:
 **Colon Adenocarcinoma**
 
 
-[https://pathologyatlas.github.io/colon-adenocarcinoma/HE2.html](https://pathologyatlas.github.io/colon-adenocarcinoma/HE2.html)
+[https://images.patolojiatlasi.com/colon-adenocarcinoma/HE2.html](https://images.patolojiatlasi.com/colon-adenocarcinoma/HE2.html)
 
 See Microscopy with viewer: 
 
-<iframe src="https://pathologyatlas.github.io/colon-adenocarcinoma/HE2.html" style="height:400px;width:100%;"></iframe>
+<iframe src="https://images.patolojiatlasi.com/colon-adenocarcinoma/HE2.html" style="height:400px;width:100%;"></iframe>
 
 ```
 
@@ -97,11 +97,11 @@ See Microscopy with viewer:
 **Kolon Adenokarsinomu pT4a**
 
 
-[https://pathologyatlas.github.io/colon-adenocarcinoma/HE3.html](https://pathologyatlas.github.io/colon-adenocarcinoma/HE3.html)
+[https://images.patolojiatlasi.com/colon-adenocarcinoma/HE3.html](https://images.patolojiatlasi.com/colon-adenocarcinoma/HE3.html)
 
 Mikroskopik görüntüleri inceleyin:
 
-<iframe src="https://pathologyatlas.github.io/colon-adenocarcinoma/HE3.html" style="height:400px;width:100%;"></iframe>
+<iframe src="https://images.patolojiatlasi.com/colon-adenocarcinoma/HE3.html" style="height:400px;width:100%;"></iframe>
 
 ```
 
@@ -113,11 +113,11 @@ Mikroskopik görüntüleri inceleyin:
 **Colon Adenocarcinoma pT4a**
 
 
-[https://pathologyatlas.github.io/colon-adenocarcinoma/HE3.html](https://pathologyatlas.github.io/colon-adenocarcinoma/HE3.html)
+[https://images.patolojiatlasi.com/colon-adenocarcinoma/HE3.html](https://images.patolojiatlasi.com/colon-adenocarcinoma/HE3.html)
 
 See Microscopy with viewer: 
 
-<iframe src="https://pathologyatlas.github.io/colon-adenocarcinoma/HE3.html" style="height:400px;width:100%;"></iframe>
+<iframe src="https://images.patolojiatlasi.com/colon-adenocarcinoma/HE3.html" style="height:400px;width:100%;"></iframe>
 
 ```
 
