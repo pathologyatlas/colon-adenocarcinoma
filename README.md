@@ -121,3 +121,17 @@ See Microscopy with viewer:
 
 ```
 
+
+---
+
+### Viewing Modes
+
+- [All Stains (Sequential)](https://images.patolojiatlasi.com/colon-adenocarcinoma/all.html) - Browse HE, HE2, HE3 stains in sequence
+- [Side by Side Comparison](https://images.patolojiatlasi.com/colon-adenocarcinoma/sidebyside.html) - View stains in synchronized panels
+- [Curtain Comparison](https://images.patolojiatlasi.com/colon-adenocarcinoma/curtain.html) - Overlay two stains with a draggable slider
+
+### Görüntüleme Modları
+
+- [Tüm Boyamalar (Sıralı)](https://images.patolojiatlasi.com/colon-adenocarcinoma/all.html) - Tüm boyamaları sırayla inceleyin
+- [Yan Yana Karşılaştırma](https://images.patolojiatlasi.com/colon-adenocarcinoma/sidebyside.html) - Boyamaları eş zamanlı panellerde görüntüleyin
+- [Perde Karşılaştırma](https://images.patolojiatlasi.com/colon-adenocarcinoma/curtain.html) - İki boyamayı sürgülü perde ile karşılaştırın
